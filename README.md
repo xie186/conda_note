@@ -12,7 +12,6 @@ conda -V
 
 ```
 
-
 ## 
 ```
 conda create -n ViewBS
@@ -28,4 +27,10 @@ source activate ViewBS
 
 ```
 source deactivate
+```
+
+## Check `conda` version and python version
+
+```
+conda info
 ```
