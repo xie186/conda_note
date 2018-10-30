@@ -34,3 +34,8 @@ source deactivate
 ```
 conda info
 ```
+
+## Check environmenta list 
+```
+conda env list
+```
