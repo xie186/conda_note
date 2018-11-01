@@ -39,3 +39,13 @@ conda info
 ```
 conda env list
 ```
+
+
+## 
+
+```
+module load anaconda/5.1.0-py36
+conda create -n ipykernel_py3 python=3 ipykernel
+source activate ipykernel_py3    # On Windows, remove the word 'source'
+python -m ipykernel install --user
+```
