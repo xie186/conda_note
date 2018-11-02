@@ -39,7 +39,13 @@ conda info
 ```
 conda env list
 ```
+## Remove an envriomenet
 
+```
+conda remove --name test --all
+conda info --envs
+
+```
 
 ## 
 
