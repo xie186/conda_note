@@ -15,6 +15,7 @@ conda -V
 ## 
 ```
 conda create -n ViewBS
+#conda create -n jupyter_env_py2 python=2.7
 ```
 
 ## activate
