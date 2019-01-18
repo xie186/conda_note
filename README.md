@@ -48,6 +48,12 @@ conda info --envs
 
 ```
 
+## Backup a env
+
+```
+conda env export -n snakemake > envrionment.yaml
+```
+
 ## 
 
 ```
