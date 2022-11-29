@@ -48,6 +48,10 @@ conda info --envs
 
 ```
 
+```
+eval "$(conda shell.bash hook)"
+```
+
 ## Backup a env
 
 ```
